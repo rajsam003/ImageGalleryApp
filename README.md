@@ -1,6 +1,13 @@
 **Image Galerry App**
 
-# Getting Started
+
+https://github.com/rajsam003/ImageGalleryApp/assets/17421923/099eea9d-a314-4cc0-a144-4cc6281d2ad6
+
+
+
+
+
+# Run The App
 
 > **Note**: Make sure to run the local node server before starting the app
 
